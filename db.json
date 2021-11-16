@@ -1,6 +1,6 @@
 {
   "kycDocs": {
-    "docs": ["AADHAR","DL"]
+    "docs": ["AADHAAR","DRIVINGLICENCE"]
   },
   "verifyMobileNumber": {
         "status_code": 200,
