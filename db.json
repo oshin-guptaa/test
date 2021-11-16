@@ -3,15 +3,21 @@
     "docs": ["AADHAAR","DRIVINGLICENCE"]
   },
   "verifyMobileNumber": {
+    "verifyMobileNumber": {
         "status_code": 200,
         "Msg": "Verified"
+    }
   },
   "otpLimitDetails": {
-    "noOfRetryLeft": 3,
-    "retryTime": 30000
+    "otpLimitDetails": {
+      "noOfRetryLeft": 3,
+      "retryTime": 30000
+    }
   },
   "verifyDL": {
+    "verifyDL": {
     "status_code" : 200,
     "Msg": "PASS"
+    }
   }
 }
