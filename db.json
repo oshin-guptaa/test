@@ -1,0 +1,17 @@
+{
+  "kycDocs": {
+    "kycOrder": ["AADHAR","PAN","DL"]
+  },
+  "verifyMobileNumber": {
+        "status_code": 200,
+        "Msg": "Verified"
+  },
+  "otpLimitDetails": {
+    "noOfRetryLeft": 3,
+    "retryTime": 30000
+  },
+  "verifyDL": {
+    "status_code" : 200,
+    "Msg": "PASS"
+  }
+}
