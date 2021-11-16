@@ -8,7 +8,7 @@
   },
   "otpLimitDetails": {
     "noOfRetryLeft": 3,
-    "retryTime": 30000
+    "retryTime": 40000
   },
   "verifyDL": {
     "status_code" : 200,
