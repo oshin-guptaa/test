@@ -3,7 +3,7 @@
     "docs": ["AADHAAR","DRIVINGLICENCE"]
   },
   "verifyMobileNumber": {
-    "status_code": 300,
+    "status_code": 200,
     "Msg": "Verified"
   },
   "otpLimitDetails": {
