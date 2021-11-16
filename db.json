@@ -1,6 +1,6 @@
 {
   "kycDocs": {
-    "kycOrder": ["AADHAR","PAN","DL"]
+    "docs": ["AADHAR","DL"]
   },
   "verifyMobileNumber": {
         "status_code": 200,
