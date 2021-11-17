@@ -15,7 +15,7 @@
     "Msg": "PASS"
   },
   "kycDetails": {
-    "type" : "PAN",
+    "type" : "DRIVINGLICENCE",
     "qualityApproved" : "true",
     "name" : "John Doe",
     "fathersName" : "Mishti Doe",
