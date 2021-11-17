@@ -6,7 +6,7 @@
     "status_code": 200,
     "Msg": "Verified"
   },
-  "otpLimitDetails": {
+  "otpRetryDetails": {
     "noOfRetryLeft": -1,
     "retryTime": 40000
   },
