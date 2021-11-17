@@ -3,7 +3,8 @@
     "status" : "KYC_FAILED",
     "message" : "AGE is GREATER",
     "verificationFailType" : "DOB",
-    "KYC_COMMISSION" : "5.0"
+    "KYC_COMMISSION" : "5.0",
+    "errorMessage" : "error"
   },
   "verifyMobileNumber": {
     "status_code": 200,
