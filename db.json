@@ -28,5 +28,10 @@
     "message" : "Hello I am there",
     "title" : "Hello Bunny",
     "age" : ""
-  }
+  },
+  "kycRegistration" : {
+    "status" : "KYC_FAILED",
+    "message" : "AGE is GREATER",
+    "verificationFailType" : "DOB"
+  } 
 }
