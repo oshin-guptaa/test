@@ -4,7 +4,7 @@
     "message" : "AGE is GREATER",
     "verificationFailType" : "DOB",
     "KYC_COMMISSION" : "5.0",
-    "errorMessage" : "error"
+    "ERROR_MSG" : "error"
   },
   "verifyMobileNumber": {
     "status_code": 200,
