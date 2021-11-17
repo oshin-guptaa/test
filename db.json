@@ -1,6 +1,9 @@
 {
-  "kycDocs": {
-    "docs": ["AADHAAR","DRIVINGLICENCE"]
+  "kycRegistration" : {
+    "status" : "KYC_FAILED",
+    "message" : "AGE is GREATER",
+    "verificationFailType" : "DOB",
+    "KYC_COMMISSION" : "5.0"
   },
   "verifyMobileNumber": {
     "status_code": 200,
