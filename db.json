@@ -13,5 +13,19 @@
   "verifyDL": {
     "status_code" : 200,
     "Msg": "PASS"
-  }
+  },
+  "kycDetails": {
+    "type" : "DRIVINGLICENCE",
+    "qualityApproved" : "true",
+    "name" : "John Doe",
+    "fathersName" : "Mishti Doe",
+    "dob" : "24/08/1991",
+    "id" : "DL987654321",
+    "state" : "Rajasthan",
+    "city" : "Jaipur",
+    "pincode" : "302031",
+    "address" : "3/313 Avas Vikas",
+    "status" : "KYC_FAILED",
+    "message" : "Hello I am there",
+    "title" : "Hello Bunny"
 }
