@@ -17,7 +17,7 @@
   "kycDetails": {
     "type" : "DRIVINGLICENCE",
     "qualityApproved" : "true",
-    "name" : "John Doe",
+    "name" : "DOE Doe",
     "fathersName" : "Mishti Doe",
     "dob" : "24/08/1991",
     "id" : "DL987654321",
@@ -25,7 +25,7 @@
     "city" : "Jaipur",
     "pincode" : "302031",
     "address" : "3/313 Avas Vikas",
-    "status" : "KYC_FAILED",
+    "status" : "KYC_COMPLETED",
     "message" : "Hello I am there",
     "title" : "Hello Bunny",
     "age" : ""
