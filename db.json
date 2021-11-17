@@ -22,7 +22,7 @@
     "dob" : "24/08/1991",
     "id" : "DL987654321",
     "state" : "Rajasthan",
-    "status" : "KYC_FAILED",
+    "status" : "kycTrigger",
     "city" : "Jaipur",
     "pincode" : "302031",
     "address" : "3/313 Avas Vikas",
