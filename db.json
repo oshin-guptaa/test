@@ -7,7 +7,7 @@
     "Msg": "Verified"
   },
   "otpRetryDetails": {
-    "limit_reached": false,
+    "limit_reached": true,
     "retryTime": 40000
   },
   "verifyDL": {
